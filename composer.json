@@ -6,9 +6,6 @@
     ],
     "type": "flarum-extension",
     "license": "GPL-1.0-or-later",
-    "require": {
-        "flarum/core": "^1.2.0"
-    },
     "authors": [
         {
             "name": "Anthony Ogundipe",
